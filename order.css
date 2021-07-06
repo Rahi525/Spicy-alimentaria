@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.order-box{
+    display: flex;
+    width: 76%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 15%;
+    justify-content: center;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    text-align:left;
+    text-decoration: none;
+    align-items: center;
+}
