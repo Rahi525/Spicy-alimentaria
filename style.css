@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #524949;
+}
+.name{
+    color: #e66161;
+}
+.sub-head{
+    color: #524949;
+}
+section{
+    display: flex;
+    padding: 5%;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    padding: 15px 30px;
+    border-radius: 25px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #bea2a2,#f34747);
+    color: white;
+}
